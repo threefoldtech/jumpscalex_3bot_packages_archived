@@ -1,0 +1,10 @@
+[source]
+name = "directory"
+threebot = "tfgrid"
+version = "1.0.0"
+
+[[bcdbs]]
+name = "tfgrid_directory"
+namespace = "tfgrid_directory"
+type = "zdb"
+instance = "default"
